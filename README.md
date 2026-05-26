@@ -1,8 +1,8 @@
-# Hey there 👋
+# Hi, I'm Alina 👋
 [![Email](https://img.shields.io/badge/Email-alinakhairullina.dev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alinakhairullina.dev@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alina%20Khairullina--Illmer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alina-khairullina-illmer/)
 ---
 
-### I'm Alina
+### About me
 
 - 🔭 Android Engineer at CHECK24, building customer-facing features for a large-scale consumer platform
 - 🎓 Bachelor of Science in International Media and Computing from HTW Berlin
