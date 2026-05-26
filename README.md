@@ -12,8 +12,6 @@
 
 ### Tech Stack
 
-### Tech Stack
-
 <code><img height="24" alt="Android" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"></code>
 <code><img height="24" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png"></code>
 <code><img height="24" alt="Java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
