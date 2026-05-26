@@ -6,7 +6,7 @@
 
 - 🔭 Android Engineer at CHECK24, building customer-facing features for a large-scale consumer platform
 - 🎓 Bachelor of Science in International Media and Computing from HTW Berlin
-- 🌱 Currently developing **RefineFocus** *(private repository)* — an offline-first Android app built with Kotlin, Jetpack Compose, Kotlin Coroutines & Flows, Clean Architecture, and a multi-module architecture
+- 🌱 Currently developing **RefineFocus** *(private repository)* - an offline-first Android app built with Kotlin, Jetpack Compose, Kotlin Coroutines & Flows, Clean Architecture, and a multi-module architecture
 - 💬 Ask me about production Android development, Jetpack Compose, Kotlin Coroutines & Flows, Clean Architecture, and XML-to-Compose modernization
 - 🎮 Fun fact: I enjoy modding games
 
@@ -22,4 +22,4 @@
 **Currently building with:** Offline-first architecture · Multi-module architecture  
 **Additional mobile experience:** Flutter · Dart · Swift
 
-<em><b>I enjoy turning complex product ideas into polished Android experiences.</b> 📱</em>
+<em><b>I enjoy turning complex product ideas into polished Android experiences.</b></em>📱
