@@ -22,5 +22,5 @@
 **Currently building with:** Offline-first architecture · Multi-module architecture  
 **Additional mobile experience:** Flutter · Dart · Swift
 
-<img src="./assets/coding-cat.gif" height="120" alt="Coding cat" />
+<img src="./assets/coding-cat.gif" height="100" alt="Coding cat" />
 <em><b>I enjoy turning complex product ideas into polished Android experiences.</b> 📱</em>
