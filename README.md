@@ -15,10 +15,11 @@
 <code><img height="24" alt="Android" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"></code>
 <code><img height="24" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png"></code>
 <code><img height="24" alt="Java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+<code><img height="24" alt="Gradle" src="https://raw.githubusercontent.com/github/explore/main/topics/gradle/gradle.png"></code>
 <code><img height="24" alt="Git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 <code><img height="24" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
 
-**Android:** Kotlin · Jetpack Compose · Android Jetpack · Kotlin Coroutines & Flows · Clean Architecture · Dagger  
+**Android:** Kotlin · Jetpack Compose · Android Jetpack · Kotlin Coroutines & Flows · Clean Architecture · Gradle · Hilt · Koin  
 **Currently building with:** Offline-first architecture · Multi-module architecture  
 **Additional mobile experience:** Flutter · Dart · Swift
 
