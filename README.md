@@ -6,7 +6,7 @@
 
 - 🔭 Android Engineer at CHECK24, building customer-facing features for a large-scale consumer platform
 - 🎓 Bachelor of Science in Media Informatics from HTW Berlin
-- 🌱 Currently developing **RefineFocus** *(private repository)* - an offline-first Android app designed to reduce distractions and help users sustain focus through gamified progress and motivation mechanics.
+- 🌱 Currently developing **RefineFocus** *(private repository)* - an offline-first Android app designed to reduce distractions and help users sustain focus through gamified progress and motivation mechanics
 - 💬 Ask me about production Android development, Jetpack Compose, Kotlin Coroutines & Flows, Clean Architecture, and XML-to-Compose modernization
 - 🎮 Fun fact: I enjoy modding games
 
