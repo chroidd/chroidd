@@ -5,8 +5,8 @@
 ### About me
 
 - 🔭 Android Engineer at SumUp
-- 🎓 Bachelor of Science in Media Informatics from HTW Berlin
 - 🌱 Currently developing **RefineFocus** *(private repository)* - an offline-first Android app designed to reduce distractions and help users sustain focus through gamified progress and motivation mechanics
+- 🎓 Bachelor of Science in Media Informatics from HTW Berlin
 - 💬 Ask me about production Android development, Jetpack Compose, Kotlin Coroutines & Flows, Clean Architecture, and XML-to-Compose modernization
 - 🎮 Fun fact: I enjoy modding games
 
